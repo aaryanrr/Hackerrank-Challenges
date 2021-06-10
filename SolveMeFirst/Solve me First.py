@@ -1,3 +1,5 @@
+#!/usr/bin/python3
+
 def solveMeFirst(a: int, b: int) -> int:
     return a + b
 
